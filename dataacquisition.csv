@@ -1,0 +1,1024 @@
+,RestaurantName,Review,TARanking,NameLength,Avg$PerPax,NumOfReviews,Photos,ZipCode,Claimed,Michelin,TravellersChoice,ReserveOnTA
+0,The Courtyard,4.5,1,13,4,1420,863,49178,True,False,True,True
+1,Entre-Nous creperie,5.0,2,19,2.5,1479,486,188383,True,False,True,False
+2,Portman's Bar,5.0,3,13,4,248,272,39594,True,False,False,False
+3,Paulaner Bräuhaus Singapore,4.5,4,27,2.5,1036,473,39596,True,False,True,True
+4,Grand Shanghai Restaurant,5.0,5,25,2.5,619,533,169662,True,False,True,False
+5,The Rose Veranda,4.5,97,16,2.5,345,345,258350,True,False,True,True
+6,Jade,4.5,6,4,4,1030,1290,49178,True,True,True,True
+7,Positano Risto,5.0,7,14,2.5,1642,1261,199479,True,False,True,True
+8,Bar-Roque Grill,4.5,8,15,2.5,656,461,88539,True,True,True,True
+9,Fat Belly Social Steakhouse,5.0,9,27,4,90,343,69620,True,False,False,False
+10,Hua Ting Restaurant,4.5,10,19,4,664,701,238879,True,True,True,False
+11,Song Garden,5.0,11,11,4,261,293,188973,True,False,True,False
+12,The Mind Cafe,5.0,12,13,2.5,337,75,188664,True,False,True,True
+13,Fu Lin Men (NSRCC),5.0,13,18,1,182,192,499739,True,False,True,True
+14,Rosso Vino,4.5,14,10,2.5,1505,635,239032,True,False,True,True
+15,Colony,4.5,15,6,4,2573,2510,39799,True,False,True,True
+16,Summer Pavilion,4.5,16,15,4,946,1171,39799,True,True,True,True
+17,Dolce Vita,4.5,17,10,4,817,647,39797,True,False,True,True
+18,Cherry Garden,4.5,18,13,4,778,697,39797,True,True,True,True
+19,Merci Marcel Club Street,5.0,19,24,2.5,173,111,69404,True,False,True,True
+20,Whitegrass,4.5,20,10,4,392,644,187996,True,True,True,False
+21,MONTI,4.5,65,5,4,615,651,49327,True,False,True,True
+22,Waterfall Ristorante Italiano,4.5,21,29,2.5,1070,729,258350,True,False,True,True
+23,Ginett Restaurant & Wine Bar,4.5,22,28,2.5,1056,819,188980,True,False,True,True
+24,Shivam Restaurant,5.0,23,17,2.5,167,100,207666,True,False,True,True
+25,Akira Back,4.5,24,10,4,892,1228,189763,True,True,True,True
+26,Fu Lin Men Chinese Restaurant (SRC),5.0,25,35,2.5,188,331,179682,True,False,True,True
+27,Red Sparrow,4.5,143,11,2.5,368,320,249673,True,False,True,True
+28,Beast & Butterflies,4.5,26,19,2.5,835,716,238259,True,False,True,True
+29,Melt Café,4.5,27,9,2.5,1850,1141,39797,True,False,True,True
+30,Oscar's,4.5,28,7,2.5,1951,1503,38982,True,False,True,True
+31,Lobby Lounge at Conrad Centennial Singapore,4.5,29,43,2.5,521,560,38982,True,False,True,True
+32,Madame Fan,4.5,30,10,4,598,571,189764,True,True,False,True
+33,IndoChili - Halal Indonesian Restaurant,4.0,297,39,2.5,314,165,247779,True,False,False,True
+34,Fu Lin Men Cantonese Dining,5.0,31,27,2.5,287,355,439870,True,False,True,True
+35,Merci Marcel Orchard,5.0,32,20,2.5,179,185,238871,True,False,True,True
+36,The Lobby Lounge at InterContinental Singapore,4.5,33,46,4,574,322,188966,True,False,False,True
+37,Origin Grill,4.5,34,12,4,678,872,258350,True,False,True,True
+38,Heart of Darkness,5.0,35,17,2.5,175,140,89109,True,False,True,True
+39,Spago Dining Room by Wolfgang Puck,4.5,36,34,4,1102,1051,18956,True,True,True,False
+40,il Cielo,4.5,37,8,4,537,875,238883,True,True,True,True
+41,Spice Brasserie,4.5,38,15,2.5,547,552,208533,True,False,True,True
+42,Publico Ristorante,5.0,39,18,2.5,1516,879,238909,True,False,False,True
+43,Fat Belly,4.5,40,9,2.5,248,634,258748,False,False,False,False
+44,Golden Peony at Conrad Centennial Singapore,4.5,41,43,4,475,624,38982,True,False,True,True
+45,Chef's Table by Chef Stephan Zoisl,5.0,42,34,4,442,508,79000,True,False,True,True
+46,Soi Aroy,5.0,43,8,1,191,199,188504,True,False,True,False
+47,Winestone,4.5,44,9,2.5,377,426,257840,True,False,True,True
+48,Man Fu Yuan,4.5,45,11,4,613,720,188966,True,True,True,True
+49,Meta Restaurant,4.5,104,15,4,355,417,89109,True,True,True,True
+50,Cut by Wolfgang Puck,4.5,46,20,4,1494,1023,18972,True,True,True,False
+51,The Wine & Gourmet Friends,5.0,47,26,2.5,252,523,89859,True,False,True,True
+52,Rise Restaurant,4.5,48,15,2.5,860,883,18956,True,False,True,False
+53,KOMA Singapore,4.5,49,14,4,599,1247,18972,True,False,True,True
+54,25 Degrees,4.5,50,10,2.5,542,274,188980,True,False,False,True
+55,Le Petit Chef - Singapore,4.5,530,25,4,126,133,228211,True,False,True,False
+56,Zazz Pizza,4.5,51,10,2.5,191,168,48423,True,False,True,True
+57,Republic,4.5,52,8,4,448,458,39799,True,False,False,True
+58,Alley on 25,4.5,53,11,2.5,497,449,189354,True,False,True,True
+59,Asian Market Cafe,4.5,54,17,2.5,757,558,189560,True,False,True,True
+60,ShuKuu Izakaya & Sake Bar,4.5,55,25,2.5,567,1122,68727,True,False,True,True
+61,Byblos Grill,4.5,137,12,2.5,466,266,199435,True,False,False,True
+62,Jelebu x Takeshi Noodle Bar,4.5,56,27,2.5,548,451,88387,True,False,False,True
+63,Meat N' Chill,4.5,57,13,2.5,407,782,279883,True,False,True,True
+64,Alma By Juan Amador,4.5,58,19,4,663,1319,228221,True,True,True,True
+65,Lawry's The Prime Rib,4.5,59,21,4,1535,878,238897,True,False,True,True
+66,Spago Bar & Lounge,4.5,60,18,4,530,696,18956,True,False,True,False
+67,The Ramen Stall,4.5,61,15,2.5,467,293,198755,True,False,True,True
+68,Merci Marcel Tiong Bahru,4.5,62,24,2.5,311,304,160056,True,False,True,True
+69,Mr Stork,4.5,63,8,2.5,454,426,189354,True,False,True,False
+70,Beach Road Kitchen,4.5,64,18,2.5,1206,1139,189763,True,False,True,True
+71,BAM! Restaurant,4.5,178,15,4,224,261,78977,True,True,False,True
+72,Cassia Restaurant,4.5,66,17,4,288,411,98297,True,False,True,True
+73,Leo Cafe & Restaurant,4.5,67,21,2.5,454,126,188933,True,False,True,False
+74,Baba Chews Bar and Eatery,4.5,68,25,2.5,415,380,428788,True,False,True,True
+75,The Orchard Cafe,4.5,69,16,2.5,361,277,238879,True,False,True,True
+76,Hummus & Grill,4.5,70,14,2.5,286,300,199662,True,False,True,True
+77,My Awesome Cafe,4.5,71,15,2.5,1240,989,68639,True,False,True,False
+78,Cure,4.5,72,4,4,233,308,89128,True,True,True,True
+79,The Line,4.5,73,8,2.5,3008,1411,258350,True,False,True,True
+80,Vatan Se,4.5,74,8,2.5,189,45,437125,True,False,False,True
+81,Joie by Dozo,4.5,75,12,4,315,713,238896,False,False,True,True
+82,Town Restaurant,4.5,76,15,4,958,628,49178,True,False,True,True
+83,The Communal Place,4.5,77,18,2.5,115,243,427677,True,False,True,True
+84,Elixir Boutique Roasters,4.5,78,24,2.5,121,216,258748,True,False,False,False
+85,Greenleaf Cafe,4.5,79,14,1,167,110,209753,True,False,True,False
+86,Enjoy Eating House and Bar @ Stevens,5.0,80,36,2.5,78,235,257840,True,False,False,True
+87,Beirut Grill,4.0,103,12,2.5,601,379,199485,True,False,True,True
+88,Peach Blossoms,4.5,81,14,4,618,623,39594,True,False,True,False
+89,Crossroads,4.5,82,10,2.5,1137,369,238865,True,False,True,False
+90,Odette,4.5,83,6,4,445,1271,178957,True,True,True,False
+91,En Sushi,4.5,84,8,2.5,300,330,188970,True,False,True,False
+92,Astor Bar,4.5,85,9,4,234,117,247911,True,False,False,True
+93,The Lobby Lounge,4.5,145,16,2.5,187,149,258350,True,False,True,True
+94,MTR Singapore,4.5,86,13,2.5,1700,436,218133,True,False,True,False
+95,Yan Ting,4.5,87,8,4,685,624,247911,True,True,True,True
+96,LAVO Italian Restaurant & Rooftop Bar,4.5,88,37,4,1507,1553,18956,True,False,True,True
+97,G7 Sin Ma Live Seafood Restaurant,4.5,89,33,2.5,387,290,389240,True,False,True,True
+98,Grissini,4.5,90,8,2.5,265,372,169663,True,False,True,True
+99,Le Noir Bar & Lounge,5.0,91,20,2.5,154,82,18972,True,False,False,True
+100,PS.Cafe at Palais Renaissance,4.5,92,29,2.5,398,224,238871,True,False,True,True
+101,BAKALAKI Greek Taverna,4.5,93,22,2.5,787,552,168891,True,False,True,True
+102,Yardbird Southern Table & Bar,4.5,94,29,2.5,757,710,18972,True,False,True,True
+103,Kinou,4.5,95,5,2.5,172,141,88380,True,False,True,True
+104,Manhattan,4.5,96,9,4,341,350,249715,True,False,True,True
+105,Rhubarb,4.5,98,7,4,426,602,89589,True,True,False,True
+106,PIPES by HATTENDO,4.5,99,17,2.5,109,252,78884,True,False,True,False
+107,"Anglo Indian Cafe & Bar, Chijmes",4.5,100,32,2.5,154,164,187996,True,False,True,True
+108,Shinji by Kanesaka,4.5,101,18,4,385,560,189558,True,True,False,False
+109,665°F,4.5,102,5,4,246,334,189354,True,False,True,True
+110,JAAN by Kirk Westaway,4.5,105,21,4,764,1425,178882,True,True,True,False
+111,Prego,4.5,106,5,2.5,564,504,189560,True,False,True,True
+112,SKAI,4.5,107,4,4,884,1218,178882,True,False,True,True
+113,Les Amis,4.5,108,8,4,490,978,228208,True,True,True,True
+114,Aromas of India,4.5,109,15,2.5,490,199,218567,True,False,False,True
+115,Wine & Chef,4.5,110,11,2.5,414,277,89115,True,False,True,True
+116,Flutes,4.5,111,6,4,564,253,178897,True,False,True,True
+117,Fleur De Sel Le Restaurant,4.5,112,26,4,254,266,79003,True,True,True,True
+118,Kucina Italian Restaurant,4.5,113,25,2.5,192,373,437157,True,False,True,False
+119,The Lighthouse Restaurant & Rooftop Bar,4.5,114,39,4,692,477,49178,True,False,False,True
+120,Pistachio Middle Eastern & Mediterranean Grill,4.5,115,46,2.5,485,370,238880,True,False,True,False
+121,Peppermint,4.5,116,10,2.5,893,587,39594,True,False,True,False
+122,Tea Lounge at Regent Singapore,4.5,117,30,2.5,399,244,249715,True,False,True,True
+123,Dumplings.ru,4.5,118,12,2.5,104,334,69115,True,False,True,False
+124,Stellar at 1-Altitude,4.0,119,21,4,717,689,48616,True,False,True,True
+125,Ramen Nagi,4.5,120,10,2.5,236,303,38989,True,False,False,False
+126,The Dim Sum Place,4.5,121,17,2.5,216,269,198759,True,False,True,True
+127,Otto Ristorante,4.5,122,15,4,358,255,69115,True,False,True,True
+128,The Curry Culture,4.5,123,17,2.5,1081,421,229457,True,False,False,True
+129,DON HO - Social Kitchen & Bar,4.5,124,29,2.5,187,158,89109,True,False,True,True
+130,Anti:dote,4.5,125,9,2.5,408,483,189560,True,False,True,True
+131,Restaurant JAG,5.0,126,14,4,71,79,89535,True,True,False,True
+132,Summer Palace,4.5,127,13,4,260,298,249715,True,True,True,True
+133,Wing Seong Fatty's (Albert) Restaurant,4.5,128,38,2.5,688,240,189649,False,False,False,False
+134,Marriott Cafe,4.5,129,13,2.5,1393,850,238865,True,False,True,True
+135,Ash & Elm - InterContinental Singapore,4.5,130,38,4,482,522,188966,True,False,True,False
+136,Tippling Club,4.5,131,13,4,540,768,88461,True,True,True,False
+137,Empress,4.5,132,7,2.5,677,487,179555,True,False,True,True
+138,The RANCH Steakhouse By ASTONS,4.5,133,30,2.5,188,159,179019,True,False,True,True
+139,Escape Restaurant,4.0,134,17,2.5,368,317,217562,True,False,True,True
+140,Wakanui Grill Dining Singapore,4.5,135,30,4,200,218,49858,True,False,True,True
+141,Tablescape Restaurant & Bar,4.5,136,27,2.5,193,229,179809,True,False,False,True
+142,Ginger,4.5,138,6,2.5,228,321,199591,True,False,False,False
+143,Bread Street Kitchen - Singapore,4.0,139,32,2.5,1872,2115,18972,True,False,True,False
+144,Gayatri Restaurant,4.0,140,18,2.5,355,239,218583,True,False,False,True
+145,The National Kitchen by Violet Oon at the National Gallery,4.5,141,58,2.5,1245,985,178957,True,True,True,True
+146,Bitters & Love,4.5,142,14,2.5,252,158,68587,True,False,False,False
+147,Wine Connection Bistro at HillV2,4.5,144,32,2.5,584,140,667979,True,False,False,True
+148,Black Tap - Singapore,4.0,146,21,2.5,439,495,18956,True,False,True,False
+149,Humpback,4.5,147,8,2.5,257,153,89832,True,False,False,True
+150,Artemis Grill & Sky Bar,4.5,148,23,4,548,535,48946,True,False,True,True
+151,Opus Bar & Grill,4.5,149,16,2.5,584,438,238883,True,False,True,True
+152,Alati Divine Greek Cuisine,4.5,150,26,2.5,312,196,69892,True,False,True,True
+153,Mikuni,4.0,151,6,4,621,790,189560,True,False,True,True
+154,Cappadocia Turkish Restaurant,4.5,152,29,2.5,135,183,199482,True,False,False,True
+155,Restaurant Labyrinth,4.5,153,20,4,362,453,39802,True,True,False,True
+156,Sen Of Japan,4.5,154,12,2.5,263,323,18956,True,False,True,True
+157,Bistecca Tuscan Steakhouse,4.5,155,26,4,591,416,238969,True,False,True,True
+158,Ma Cuisine,4.5,156,10,4,214,273,89676,True,True,False,False
+159,Po,4.5,157,2,2.5,304,198,169628,True,False,True,True
+160,Coriander Leaf @ Chijmes,4.5,158,24,2.5,549,321,187996,True,False,False,True
+161,The Song of India,4.0,159,17,4,1345,662,228226,True,False,False,False
+162,Etna Italian Restaurant (Duxton),4.5,160,32,2.5,326,240,89513,True,False,True,True
+163,Wan Hao Chinese Restaurant,4.5,161,26,4,541,466,238865,True,False,False,True
+164,Waku Ghin,4.5,162,9,4,355,568,18956,True,True,False,False
+165,Corner House,4.5,163,12,4,578,792,259569,True,True,True,True
+166,Braci,4.5,164,5,4,238,417,49841,True,True,False,True
+167,Shang Palace,4.5,165,12,4,499,383,258350,True,True,True,True
+168,Hua Yu Wee Seafood,4.5,166,18,2.5,258,251,466508,False,False,False,False
+169,PS.Cafe Ann Siang Hill,4.0,167,22,2.5,371,222,69719,True,False,True,True
+170,Marmaris Restaurant,5.0,168,19,2.5,96,36,209430,True,False,False,True
+171,Li Bai Cantonese Restaurant,4.5,169,27,4,225,214,228230,False,False,True,True
+172,Binomio,4.5,170,7,4,542,281,89692,True,False,True,False
+173,Zafferano Italian Restaurant & Lounge,4.5,171,37,4,500,406,49315,True,False,True,True
+174,Haidilao Hot Pot,4.5,172,16,2.5,387,417,179023,True,False,False,False
+175,ATLAS Bar,4.5,173,9,2.5,632,989,188778,True,False,False,False
+176,Marcello,4.5,174,8,2.5,146,90,238909,True,False,False,False
+177,FOC Restaurant,4.5,175,14,2.5,685,442,59679,True,True,True,True
+178,Privé ACM,4.0,176,9,2.5,425,201,179555,True,False,True,True
+179,Basilico,4.5,177,8,4,1012,498,249715,True,False,True,True
+180,The Spot,4.5,179,8,2.5,105,139,18935,True,False,True,True
+181,"Tess Bar & Kitchen, Singapore",4.5,180,29,2.5,229,154,188394,True,False,True,True
+182,CÉ  LA VI,4.5,181,9,4,7145,4071,18971,True,False,False,True
+183,Neon Pigeon,4.5,182,11,2.5,487,221,59915,True,False,False,True
+184,Din Tai Fung (Paragon Branch),4.0,183,29,2.5,1201,572,238859,True,False,False,False
+185,mezza9,4.0,184,6,4,828,379,228211,True,False,True,True
+186,TWG Tea Garden at Marina Bay Sands,4.5,185,34,2.5,393,367,18972,True,False,False,False
+187,Carousel Buffet,4.5,186,15,2.5,2562,823,228220,True,False,False,False
+188,La Brasserie,4.0,187,12,4,419,340,49326,True,False,True,True
+189,Art,4.5,188,3,2.5,316,302,178957,True,True,True,True
+190,Sque Rotisserie & Alehouse,4.5,189,26,2.5,434,184,59817,True,False,False,False
+191,"The English House, By Marco Pierre White, Singapore",4.5,190,51,4,310,319,238972,True,False,True,True
+192,Wah Lok,4.0,191,7,2.5,422,281,189558,True,True,True,True
+193,Birds Of A Feather,4.5,192,18,2.5,355,259,69935,True,False,True,True
+194,Lolla,4.5,193,5,2.5,387,266,69702,False,False,True,True
+195,Captain K Seafood Tower,4.5,194,23,2.5,352,347,188970,True,False,True,True
+196,Keyaki Japanese Restaurant,4.5,195,26,4,388,408,39595,True,False,False,True
+197,Mott 32,4.5,196,7,4,144,285,18958,True,False,False,False
+198,Oso Ristorante,4.5,197,14,4,560,458,89859,True,False,False,True
+199,Garibaldi Italian Restaurant & Bar,4.0,198,34,4,616,515,188613,True,True,True,True
+200,Hai Tien Lo,4.0,199,11,4,411,323,39595,True,False,True,True
+201,LeVeL33,4.0,200,7,2.5,2575,1991,18981,True,False,True,True
+202,Brasserie Les Saveurs,4.0,201,21,4,783,586,247911,True,False,True,True
+203,Burnt Ends,4.5,202,10,4,638,840,88391,True,True,False,True
+204,Edge Food Theatre,4.5,203,17,2.5,1029,746,39595,True,False,False,True
+205,Din Tai Fung (Marina Bay Link Mall),4.5,204,35,2.5,705,278,18984,False,False,False,False
+206,Kazbar,4.5,205,6,2.5,262,126,49482,True,False,True,True
+207,Butcher Boy,4.5,206,11,2.5,174,119,89138,True,False,True,True
+208,Sawadee Thai Cuisine,4.5,207,20,2.5,320,232,188098,True,False,True,True
+209,Wine Connection Cheese Bar,4.5,208,26,2.5,353,171,237995,True,False,True,True
+210,Esquina,4.5,209,7,2.5,578,321,89267,True,True,False,False
+211,"Song Fa Bak Kut Teh, Chinatown Point",4.0,210,36,2.5,1021,860,59413,True,False,False,True
+212,Tsukiji Fish Market,4.0,211,19,2.5,570,406,238896,True,False,False,False
+213,Blu Kouzina,4.5,212,11,2.5,1744,784,247700,True,False,False,True
+214,DB Bistro & Oyster Bar,4.0,213,22,4,1291,865,18958,True,True,True,True
+215,Fat Prince,4.5,214,10,2.5,358,240,79317,True,False,False,True
+216,Din Tai Fung,4.5,215,12,2.5,668,409,179103,False,False,False,False
+217,Momma Kong's,4.5,216,12,2.5,505,411,59512,True,False,True,True
+218,The Dempsey Cookhouse & Bar,4.5,217,27,2.5,292,293,249676,True,True,True,True
+219,Arteastiq Bistro & Bar,4.0,218,22,2.5,588,558,238839,True,False,False,True
+220,Song Fa Bak Kut Teh 17 New Bridge Road,4.0,220,38,2.5,547,642,59386,True,True,False,False
+221,Din Tai Fung Chinatown Point,4.5,221,28,2.5,299,214,59413,False,False,False,False
+222,Tapas Club,4.5,222,10,2.5,625,412,98585,True,False,False,True
+223,Lighthouse Bistro & Bar,4.5,223,23,2.5,158,170,208738,True,False,False,True
+224,Jypsy,4.5,224,5,2.5,181,207,239072,True,False,True,True
+225,iO Italian Osteria Singapore,4.5,225,28,2.5,435,415,667979,True,False,True,True
+226,IndoChili,4.5,226,9,2.5,152,65,78884,True,False,False,False
+227,Patara Fine Thai Cuisine,4.0,227,24,2.5,359,229,247933,True,False,True,True
+228,Shabestan Finest Persian Cuisine,4.0,228,32,2.5,410,329,239013,True,False,True,True
+229,Prive Chijmes,4.0,229,13,2.5,656,251,187996,True,False,True,True
+230,Buko Nero,4.5,230,9,2.5,151,95,88534,True,True,False,True
+231,Enjoy Eating House and Bar @ Jln Besar,4.5,232,38,2.5,93,101,209001,True,False,True,True
+232,The Landing Point,4.0,233,17,2.5,409,270,49326,True,False,True,True
+233,Limoncello Pizza and Grill,4.0,234,26,2.5,580,302,238256,True,False,False,True
+234,Si Chuan Dou Hua Restaurant,4.5,235,27,2.5,169,203,208533,True,False,True,True
+235,Moosehead Kitchen-Bar,4.5,236,21,2.5,291,53,68579,True,False,True,True
+236,The Boiler (Howard Road),4.0,237,24,2.5,445,343,369585,True,False,True,True
+237,RAS  The Essence of India,4.0,238,25,2.5,381,107,179023,True,False,False,False
+238,Trattoria Nonna Lina,4.5,239,20,2.5,173,54,89757,True,False,True,True
+239,The Halia at Singapore Botanic Gardens,4.5,240,38,2.5,2239,1250,259569,True,False,False,True
+240,Burlamacco Ristorante,4.0,241,21,2.5,431,227,68739,True,False,True,True
+241,Shake Farm HQ,5.0,242,13,2.5,93,84,68595,True,False,False,True
+242,Al Borgo,4.5,243,8,2.5,193,116,259727,True,False,True,True
+243,Wooloomooloo Steakhouse,4.0,244,23,4,788,569,178882,True,False,True,True
+244,Lola's Cafe,4.0,245,11,2.5,395,199,545893,True,False,False,True
+245,Quentin's Eurasian Restaurant,4.5,246,29,2.5,247,94,429744,True,False,True,True
+246,Lagnaa...barefoot dining,4.0,247,24,2.5,1341,426,207466,True,True,False,True
+247,Violet Oon Satay Bar & Grill,4.0,248,28,4,316,225,179021,True,False,False,True
+248,HolyCrab,4.5,249,8,2.5,92,103,178905,True,False,False,True
+249,Coucou,4.5,250,6,2.5,81,222,89669,True,False,True,True
+250,DC Comics Super Heroes Cafe,4.0,251,27,2.5,1051,1072,18972,True,False,False,False
+251,Prive Keppel Bay,4.0,252,16,2.5,828,354,98382,True,False,True,True
+252,Wine Connection Tapas Bar & Bistro,4.0,253,34,2.5,975,224,237995,True,False,True,True
+253,The White Rabbit,4.0,255,16,4,1287,498,199545,True,False,True,False
+254,The Lokal,4.0,256,9,2.5,416,195,88865,True,False,True,True
+255,East Coast Lagoon Food Village,4.0,257,30,1,226,243,468960,False,False,False,False
+256,21 on Rajah,4.0,258,11,2.5,698,222,329133,True,False,False,False
+257,Rubato Italian Kitchen & Wine Bar,4.0,259,33,2.5,483,292,289204,True,False,False,True
+258,The Auld Alliance,5.0,260,17,2.5,114,53,189559,True,False,False,True
+259,Fill a Pita,4.5,261,11,1,220,59,48660,True,False,False,False
+260,Kai Garden,4.0,262,10,2.5,311,349,39594,True,False,True,True
+261,Symmetry,4.0,263,8,2.5,422,251,199206,True,False,True,True
+262,Chopsuey Cafe,4.0,264,13,2.5,336,181,249670,True,False,False,False
+263,Wild Honey,4.0,265,10,2.5,1691,627,238897,True,False,True,True
+264,Komala Villas Restaurant,4.0,266,24,1,982,317,217981,False,False,False,False
+265,Jim Thompson,4.0,267,12,4,724,413,248817,True,False,False,True
+266,Koon Bak Kut Teh Cafe,4.5,268,21,2.5,149,74,338731,True,False,False,False
+267,"Din Tai Fung, Suntec City",4.5,269,25,2.5,233,168,38983,False,False,False,False
+268,PS.Cafe Harding,4.0,270,15,2.5,1374,817,249549,True,False,True,True
+269,Chui Huay Lim Teochew Cuisine,4.0,271,29,2.5,357,216,308409,True,False,True,True
+270,PS.Cafe One Fullerton,4.5,272,21,2.5,145,166,49213,True,False,True,True
+271,fyr,4.0,273,3,2.5,295,156,69619,True,False,False,True
+272,The Coconut Club,4.0,274,16,2.5,250,366,69708,True,True,False,True
+273,Saint Pierre,4.5,275,12,4,275,307,49213,True,True,True,True
+274,PizzaFace,4.5,276,9,2.5,94,37,199600,True,False,False,True
+275,Papi's Tacos,4.5,277,12,2.5,103,71,188395,True,False,True,True
+276,No Menu,4.0,278,7,4,366,151,69621,False,False,False,True
+277,The Floating Donut Company,5.0,279,26,2.5,81,83,49326,True,False,False,False
+278,HANS IM GLUCK German Burgergrill,4.0,280,32,2.5,209,152,238887,True,False,True,True
+279,Latteria Mozzarella Bar,4.0,281,23,2.5,350,265,89618,True,False,True,True
+280,Super Loco Customs House,4.5,282,24,2.5,190,138,49323,True,False,True,True
+281,Chinatown Complex,4.0,283,17,1,407,525,50335,False,False,False,False
+282,Pete's Place,4.0,284,12,2.5,603,223,228211,True,False,True,True
+283,Swee Choon Tim Sum Restaurant,4.0,285,29,1,529,516,208882,True,False,False,True
+284,Crystal Jade Golden Palace,4.0,286,26,2.5,475,346,238859,True,True,False,True
+285,Arteastiq Boutique Tea House,4.0,287,28,2.5,727,616,238897,True,False,False,True
+286,Spices Cafe (Concorde Hotel),4.0,288,28,2.5,424,187,238840,True,False,False,True
+287,"Morton's, The Steakhouse",4.0,289,24,4,979,380,39797,True,False,False,True
+288,Herbivore,4.5,290,9,2.5,176,130,,False,False,False,False
+289,Gordon Grill,4.5,291,12,4,133,127,228221,True,True,False,False
+290,StraitsKitchen,4.0,292,14,2.5,935,368,228211,True,False,False,True
+291,The Marmalade Pantry at Novena,4.0,293,30,2.5,309,151,307470,True,False,True,True
+292,The Boiler (Esplanade),4.5,294,22,2.5,158,82,39802,True,False,True,True
+293,Mondo Mio,4.0,295,9,2.5,267,130,238251,True,False,True,True
+294,Long Beach Seafood Restaurant,4.0,296,29,2.5,587,515,249670,True,False,False,True
+295,Candlenut,4.0,298,9,2.5,615,1003,249676,True,True,False,True
+296,Lantern Rooftop Bar,4.0,299,19,4,894,487,49326,True,False,True,True
+297,Blu Jaz,4.0,300,7,2.5,363,249,189848,True,False,True,False
+298,Flnt,5.0,301,4,2.5,51,99,238801,True,False,False,True
+299,Gattopardo Ristorante Di Mare,4.5,302,29,4,338,302,78975,True,True,False,True
+300,Privé Somerset,4.5,303,14,2.5,115,65,238895,True,False,True,True
+301,JUMBO Seafood (ION Orchard),4.0,304,27,2.5,196,147,238801,True,False,True,True
+302,15 Stamford By Alvin Leung,4.5,305,26,4,171,269,178906,True,False,True,True
+303,Riders Cafe,4.0,306,11,2.5,594,246,286965,True,False,True,True
+304,Amo,4.0,307,3,2.5,262,210,59672,True,False,True,True
+305,Samy's Curry,4.0,308,12,2.5,618,299,249670,True,False,True,False
+306,Nanbantei,4.0,309,9,2.5,301,109,228213,False,False,False,True
+307,One Bowl,4.5,311,8,2.5,86,140,199002,False,False,False,True
+308,Les Bouchons Ann Siang,4.0,312,22,2.5,292,131,69689,True,False,True,True
+309,Chin Chin Eating House,4.0,313,22,1,295,203,,False,False,False,False
+310,Brewerkz (Riverside Point),4.0,314,26,2.5,1312,451,58282,True,False,True,True
+311,Mellben Seafood,4.0,315,15,2.5,452,386,560232,False,True,False,False
+312,Bedrock Bar and Grill,4.0,316,21,4,501,286,238163,True,False,True,True
+313,redpan,4.0,317,6,2.5,264,118,39594,True,False,False,True
+314,Brazil Churrasco,4.0,318,16,2.5,269,57,276476,True,False,False,False
+315,Zam Zam,4.0,319,7,1,1416,1015,198676,False,False,False,False
+316,Punjab Grill,4.0,320,12,4,644,204,18956,True,False,False,False
+317,Imperial Treasure Super Peking Duck Restaurant,4.0,321,46,4,436,477,238859,True,True,True,False
+318,Ding Dong,4.0,322,9,2.5,335,182,69935,True,False,False,False
+319,Oriole Coffee + Bar,4.0,323,19,2.5,452,258,238163,True,False,False,True
+320,Salted and Hung,4.5,324,15,2.5,195,259,188591,True,False,True,True
+321,Kilo Kitchen,4.5,325,12,2.5,292,184,89541,True,False,False,True
+322,Two Chefs Bar Mexican & Italian,4.5,326,31,2.5,160,108,98375,True,False,True,True
+323,Xiao Ya Tou,4.0,327,11,2.5,209,119,89592,True,False,False,True
+324,Mag's Wine Kitchen,4.5,328,18,2.5,116,58,89158,True,True,True,True
+325,Arbora,4.0,329,6,2.5,254,108,99203,True,False,True,True
+326,Lerouy,4.5,330,6,4,152,254,69924,True,True,True,True
+327,Brasserie Gavroche,4.0,332,18,4,317,84,79005,True,False,False,False
+328,Pasta Brava Italian Restaurant,4.0,333,30,2.5,689,431,89671,True,False,False,True
+329,Four Points Eatery,4.0,334,18,2.5,407,302,169629,True,False,False,True
+330,The Dining Room,4.0,335,15,2.5,201,148,228230,False,False,False,True
+331,Brewerkz (Orchard Rendezvous Hotel),4.0,336,35,2.5,238,68,247905,True,False,False,True
+332,Song Fa Bak Kut Teh The Centrepoint,4.5,337,35,2.5,118,168,238843,True,False,False,True
+333,OverEasy,4.0,339,8,2.5,930,279,49213,True,False,True,True
+334,Les Bouchons Robertson Quay,4.0,340,27,2.5,276,116,238252,True,False,True,True
+335,Tiffin Room,4.0,341,11,4,863,470,189673,True,False,True,True
+336,The Populus Coffee and Food Co,4.0,342,30,2.5,456,214,88875,True,False,False,True
+337,Sofra Turkish Cafe & Restaurant,4.0,343,31,2.5,295,307,39594,True,False,False,True
+338,Dancing Crab,4.0,344,12,2.5,601,119,238896,False,False,True,True
+339,Tamarind Hill Singapore By Samadhi,4.0,345,34,4,432,253,119189,True,False,False,False
+340,Napoleon Food & Wine Bar,4.0,346,24,2.5,412,150,68641,True,False,False,False
+341,Shashlik,4.0,347,8,2.5,364,210,238882,True,False,True,True
+342,Frieda,4.5,349,6,2.5,125,129,178905,True,False,True,True
+343,Khansama Tandoori Restaurant,4.0,350,28,2.5,756,358,218050,True,False,False,True
+344,Uncle Leong Seafood,4.0,351,19,2.5,251,78,828835,False,False,False,True
+345,Marche Movenpick,4.0,352,16,2.5,668,460,238895,True,False,False,False
+346,Violet Oon Singapore,4.5,353,20,2.5,112,129,819666,True,False,True,True
+347,One-Ninety Restaurant,4.5,354,21,4,178,137,248646,True,False,True,True
+348,JUMBO Seafood (Dempsey Hill),4.0,355,28,2.5,1108,286,249673,True,False,True,True
+349,Jiang-Nan Chun,4.5,356,14,4,197,265,248646,True,True,True,True
+350,Mustard,4.0,357,7,2.5,299,120,,True,False,False,False
+351,Guccio Ristorante,4.5,358,17,4,96,146,69256,True,False,True,True
+352,The Clifford Pier,4.0,360,17,2.5,636,586,49326,True,False,False,True
+353,Katong Kitchen,4.0,361,14,2.5,259,165,449536,True,False,False,True
+354,The Black Swan,4.0,362,14,2.5,485,276,49704,True,False,False,False
+355,Palm Beach Seafood Restaurant,4.0,363,29,4,1167,761,49213,False,False,False,False
+356,The Blue Ginger Restaurant,4.0,364,26,2.5,412,296,88518,True,True,False,True
+357,Caffe Fernet,4.0,365,12,2.5,149,142,49323,True,False,True,True
+358,TONO Cevicheria,4.5,366,15,2.5,114,107,189356,True,False,False,False
+359,Luke's Oyster Bar & Chop House,4.5,367,30,4,288,141,69257,True,True,False,False
+360,The Grand Lobby,4.0,368,15,4,542,257,189673,True,False,False,True
+361,Anglo Indian Cafe Bar,4.5,369,21,2.5,154,67,68803,True,True,True,True
+362,Old School Delights,4.5,370,19,2.5,74,157,39802,True,False,False,True
+363,Lim Chee Guan,4.5,372,13,1,114,63,59429,False,False,False,False
+364,Artichoke,4.0,373,9,2.5,372,208,188978,False,False,False,False
+365,10 Scotts,4.0,374,9,2.5,336,289,228211,True,False,False,True
+366,LONG BEACH UDMC,4.0,375,15,2.5,697,507,609601,True,False,False,True
+367,NAMI Restaurant and Bar,4.5,376,23,4,143,193,258350,True,False,True,True
+368,Spize,4.0,377,5,2.5,266,166,588406,True,False,False,False
+369,PS.Cafe Paragon,4.0,378,15,2.5,341,200,238859,True,False,False,True
+370,Al Forno,4.0,379,8,2.5,364,132,428996,True,False,True,True
+371,Gunther's Modern French Cuisine,4.0,380,31,4,319,262,188613,True,True,False,True
+372,I am...,4.0,381,7,2.5,357,260,188804,True,False,False,True
+373,Lime Restaurant,4.0,382,15,2.5,614,565,58289,True,False,False,True
+374,PS.Cafe Raffles City,4.0,383,20,2.5,377,154,179103,True,False,False,True
+375,Lucca's Trattoria,4.5,384,17,2.5,172,117,237995,True,False,True,False
+376,Seasonal Tastes,4.0,385,15,2.5,508,364,18961,True,False,False,True
+377,Sabai Fine Thai on the Bay,4.0,386,26,2.5,271,85,49323,True,False,False,True
+378,La Nonna,4.0,387,8,2.5,316,107,277685,False,False,False,True
+379,The Butcher's Wife,4.5,388,18,2.5,115,50,168650,True,False,True,True
+380,Yummy Punjaby,4.5,389,13,2.5,236,81,159971,True,False,False,False
+381,GRUB,4.0,390,4,2.5,444,153,569983,True,False,True,True
+382,French Fold Telok Ayer,5.0,391,22,2.5,58,62,68640,True,False,False,False
+383,Ristorante Da Valentino,4.0,393,23,4,333,233,287994,False,False,True,True
+384,Rizu,4.5,394,4,4,87,171,89617,True,False,False,False
+385,The Banana Leaf Apolo,4.0,395,21,2.5,564,236,217959,True,False,False,False
+386,Tandoor,4.0,396,7,4,398,80,229616,True,False,False,True
+387,Brotzeit Vivocity,4.0,397,17,2.5,586,223,98585,True,False,True,True
+388,Empress Porridge,4.5,398,16,1,59,99,119082,False,False,False,False
+389,Copper Chimney,4.0,399,14,2.5,379,198,207676,True,False,False,True
+390,Wee Nam Kee Hainanese Chicken Rice Restaurant,4.0,400,45,1,481,330,39594,False,False,False,False
+391,KENG ENG KEE SEAFOOD,4.0,401,20,2.5,161,300,150124,False,True,False,True
+392,Pizza Fabbrica,4.0,402,14,2.5,229,99,189201,True,False,True,True
+393,Sushi Ayumu by Masa Ishibashi,4.5,403,29,4,136,207,238897,True,False,False,True
+394,McGettigan's CQ,4.0,404,15,2.5,358,92,179020,True,False,False,False
+395,Lime House Caribbean,4.0,405,20,2.5,257,153,89260,True,False,True,True
+396,Kailash Parbat,4.0,406,14,2.5,574,136,219924,True,False,False,False
+397,Newton Food Centre,4.0,407,18,1,1111,845,229495,True,False,False,False
+398,Chinatown Food Street,4.0,408,21,1,821,810,50335,True,False,False,False
+399,Fat Cow,4.0,409,7,4,537,305,248649,True,True,False,True
+400,Café Iguana,4.0,410,11,2.5,569,205,58282,True,False,True,True
+401,Jumbo Seafood (Jewel Changi Aiport),4.5,411,35,2.5,87,33,819666,True,False,True,True
+402,Etna Italian Restaurant (Upper East Coast),4.0,412,42,2.5,229,128,455298,True,False,True,True
+403,Song Fa Bak Kut Teh,4.5,413,19,2.5,132,241,59383,True,False,False,False
+404,Marche Movenpick VivoCity,4.0,414,25,2.5,519,280,98585,True,False,False,True
+405,Nicolas le Restaurant,4.5,415,21,4,113,101,88386,True,True,False,False
+406,Din Tai Fung (RWS Branch),4.0,416,25,2.5,312,119,98138,False,False,False,False
+407,Mitsuba Japanese Restaurant,4.0,417,27,2.5,413,119,59817,True,False,True,True
+408,Ciao@,4.5,418,5,2.5,179,154,189201,True,False,False,False
+409,Boon Tong Kee at River Valley,4.0,419,29,2.5,282,264,248324,False,False,False,True
+410,Unyangkordai SG,4.5,420,15,2.5,60,78,58688,True,False,True,True
+411,Uya Singapore,4.0,421,13,2.5,121,113,238880,True,False,True,True
+412,Bowls & Bites,4.5,422,13,2.5,43,86,48441,True,False,False,False
+413,The Ramen House,4.5,424,15,2.5,83,91,188213,True,False,False,True
+414,Botanico at The Garage,4.0,425,22,2.5,128,158,257488,True,False,True,False
+415,Tandoori Culture,4.5,426,16,2.5,141,71,69613,True,False,False,True
+416,Elemen,4.5,427,6,2.5,130,77,574408,False,False,False,False
+417,The Fabulous Baker Boy,4.0,428,22,2.5,445,157,199918,True,False,False,True
+418,Chatterbox,4.0,429,10,2.5,919,528,238867,True,False,False,False
+419,Crossings Cafe,4.0,430,14,2.5,107,82,187954,False,False,True,True
+420,Asia Grand,4.0,431,10,2.5,189,210,188720,True,False,False,True
+421,Club 5,5.0,432,6,2.5,35,74,199591,True,False,False,False
+422,Bayswater Kitchen,4.0,433,17,2.5,229,177,98382,True,False,True,True
+423,Muddy Murphy's Irish Pub,4.0,434,24,2.5,291,90,238879,True,False,False,True
+424,Straits Cafe,4.0,435,12,2.5,301,131,189559,True,False,False,True
+425,Tatsuya,4.5,436,7,4,304,274,228221,False,False,False,False
+426,D.O.P Mozzarella Bar & Restaurant,4.5,437,33,2.5,115,70,238252,True,False,False,False
+427,Princess Terrace Authentic Penang Food,4.0,438,38,2.5,175,143,169632,True,False,True,True
+428,La Salsa,4.0,440,8,2.5,214,108,249673,True,False,True,True
+429,Wild Rocket @ Mount Emily,4.0,441,25,4,231,183,228119,True,False,False,False
+430,Best Satay,4.5,442,10,1,180,182,48582,True,False,False,False
+431,Solo Ristorante,4.5,443,15,4,101,124,69871,True,False,True,True
+432,Muthu's Curry - Little India,4.0,444,28,2.5,432,300,218591,True,True,False,True
+433,Chop Suey Cafe,4.0,445,14,2.5,223,85,247700,False,False,False,False
+434,Bayang,4.0,446,6,2.5,175,82,179020,True,False,False,True
+435,Shahi Maharani North Indian Restaurant,4.0,447,38,4,317,112,179103,True,False,False,True
+436,The Gyu Co,4.5,448,10,1,42,80,608526,True,False,False,True
+437,Triple Three,4.0,449,12,2.5,614,307,238867,True,False,True,False
+438,Salt tapas & bar,4.0,450,16,2.5,555,192,179103,True,False,False,False
+439,The Refinery Restaurant & Bar,4.0,451,29,2.5,316,166,208561,True,False,False,True
+440,TWG Tea at ION Orchard,4.0,452,22,2.5,378,243,238801,True,False,False,False
+441,Vatos Urban Tacos,4.0,453,17,2.5,405,194,189766,True,False,False,True
+442,Caruso Italian Restaurant,4.5,454,25,2.5,136,84,269764,True,False,True,True
+443,JUMBO Seafood (East Coast Seafood Centre),4.0,455,41,2.5,3947,1595,449883,True,False,True,True
+444,Element at  Amara Singapore Hotel,4.0,456,33,2.5,300,205,88539,True,False,False,True
+445,Ng Ah Sio Pork Ribs Soup Eating House (Rangoon Road),4.0,457,52,2.5,266,365,218453,True,False,False,False
+446,The Sampan Asian Kitchen & Bar,4.5,458,30,2.5,62,103,49851,True,False,False,False
+447,Hard Rock Cafe,4.0,459,14,2.5,998,445,249724,True,False,True,True
+448,Prive Tiong Bahru,4.5,460,17,2.5,73,55,160057,True,False,True,True
+449,Ya Kun Kaya Toast,4.0,461,17,1,219,129,819663,False,False,False,False
+450,Boon Tong Kee at Balestier,4.0,462,26,2.5,553,407,329803,False,True,False,True
+451,Bar-A-Thym Restaurant,4.5,463,21,2.5,103,157,69255,True,False,False,True
+452,Dabbawalla,4.5,464,10,2.5,207,74,229457,True,False,False,True
+453,Atout,4.0,465,5,4,154,161,249548,True,False,True,False
+454,Nassim Hill Bakery,4.0,466,18,2.5,343,225,247964,True,False,False,True
+455,Yan,4.0,467,3,4,286,202,178957,True,False,True,True
+456,Whole Earth,4.0,468,11,2.5,195,128,79331,True,True,False,False
+457,Man Man Japanese Unagi Restaurant,4.0,469,33,2.5,176,294,89109,False,True,False,True
+458,Xi Yan Shaw,4.0,470,11,2.5,164,179,228208,True,False,True,True
+459,PX Hainanese Chicken Rice,5.0,471,25,1,65,12,819662,True,False,False,False
+460,Ristorante Takada,4.5,472,17,4,93,178,159949,True,False,False,True
+461,Cook & Brew,4.0,473,11,2.5,245,159,18961,True,False,False,True
+462,Red House Seafood Restaurant,4.0,474,28,2.5,810,461,169663,True,False,True,True
+463,The Carvery,4.0,475,11,2.5,284,127,159972,True,False,False,False
+464,Sun With Moon Japanese Dining & Cafe,4.0,476,36,2.5,221,271,238880,False,False,True,True
+465,JUMBO Seafood (Riverside Point),4.0,477,31,2.5,3063,1515,58282,True,False,True,True
+466,Open Farm Community,4.0,478,19,2.5,561,409,248819,True,True,True,True
+467,Jaggi's Northern Indian Cuisine,4.0,479,31,2.5,263,114,218593,True,False,False,False
+468,Yellow Pot Tanjong Pagar,4.5,480,24,2.5,104,132,89540,True,False,True,True
+469,Potato Head Singapore,4.0,481,21,2.5,500,396,89143,True,False,False,True
+470,The Wine Cove,5.0,482,13,4,30,117,459107,True,False,False,True
+471,Original Sin,4.0,483,12,2.5,336,138,278115,True,False,False,True
+472,Mazzo Restaurant & Bar,4.5,484,22,2.5,51,118,69431,True,False,False,True
+473,Imperial Treasure Fine Teochew Cuisine,4.0,485,38,2.5,177,249,238801,True,True,False,False
+474,Prive Wheelock,4.0,486,14,2.5,304,141,238880,True,False,True,True
+475,Chicken Up,4.0,487,10,2.5,289,184,88469,True,False,False,True
+476,Shangri-la's Rasa Sentosa Resort Restaurants,4.5,488,44,2.5,180,58,98970,True,False,False,False
+477,Ruth's Chris Steak House,4.0,489,24,4,276,203,39594,True,False,False,True
+478,Baci Baci,4.5,490,9,2.5,126,96,556847,True,False,False,True
+479,Bistro Du Vin,4.0,491,13,2.5,246,181,228208,True,True,False,False
+480,The Peranakan,4.0,492,13,2.5,220,392,238879,True,False,False,False
+481,elemen,4.0,493,6,2.5,382,245,39596,True,False,False,True
+482,Le Bistrot du Sommelier,4.0,495,23,2.5,275,109,179940,True,False,False,False
+483,Indian Express,4.0,496,14,2.5,166,81,218555,True,False,True,True
+484,Blue Jasmine,4.0,497,12,2.5,158,191,217564,True,False,True,True
+485,Min Jiang Goodwood Park Hotel,4.0,498,29,4,259,190,228221,True,False,False,False
+486,Tachinomiya Japanese Izakaya & Bar,5.0,499,34,2.5,34,142,530211,True,False,True,True
+487,La Bonne Table,4.5,500,14,2.5,53,45,428913,True,False,False,True
+488,Xin Cuisine Chinese restaurant,4.0,501,30,2.5,137,131,169075,True,False,False,True
+489,Komala's Restaurant,4.0,502,19,2.5,258,86,218113,False,False,False,False
+490,La Strada,4.0,503,9,2.5,160,203,228208,True,False,False,True
+491,Wanton,4.0,504,6,2.5,140,55,69878,True,False,False,False
+492,Noka,4.5,505,4,2.5,54,19,179097,True,False,True,True
+493,Pasta Fresca Da Salvatore,4.0,506,25,2.5,327,181,49819,True,False,True,True
+494,Vespetta Italian Restaurant,4.5,507,27,2.5,140,141,49829,True,False,False,True
+495,Pince and Pints (Duxton),4.0,508,24,2.5,294,178,89497,True,False,False,True
+496,TungLok XiHe Peking Duck,4.0,509,24,2.5,244,105,238896,False,False,False,True
+497,House Of Seafood Clarke Quay,4.5,511,28,4,59,86,179019,True,False,False,False
+498,Newton Hawker Centre,3.5,512,20,1,812,294,239928,False,False,False,False
+499,Parkroyal hotel,5.0,513,15,2.5,60,48,,False,False,False,False
+500,Renga-ya,4.5,514,8,2.5,85,152,187996,True,False,True,True
+501,Super Dario Lasagne Cafe,4.5,515,24,2.5,106,100,208539,True,False,False,True
+502,Don Quijote Spanish Restaurant,4.0,516,30,2.5,331,153,249684,False,False,False,False
+503,Food Capital,4.0,517,12,2.5,277,127,169663,True,False,True,True
+504,Fairytail Bar,4.5,518,13,2.5,72,69,169040,True,False,False,False
+505,Ushidoki Wagyu Kaiseki,4.5,519,22,4,61,136,78996,True,True,False,True
+506,Min Jiang at Dempsey,4.0,520,20,4,276,282,249684,True,True,False,False
+507,Luka ITALIAN - DINING / PIZZA / BAR,4.0,521,35,2.5,114,169,88441,True,False,True,True
+508,House of Wèi,4.0,522,12,4,295,193,189560,True,False,True,True
+509,Violet Oon Singapore ION,4.0,523,24,2.5,209,167,238801,True,False,False,True
+510,Shoukouwa,4.5,524,9,4,94,208,49213,True,True,False,True
+511,The Masons Table,5.0,525,16,2.5,39,70,179806,True,False,False,False
+512,Verre Modern Bistro & Wine Bar,4.0,526,30,2.5,155,54,238216,True,False,False,False
+513,Dallas Restaurant & Bar (Boat Quay),4.0,527,35,2.5,209,138,,True,False,True,True
+514,Ellenborough Market Cafe,4.0,528,24,2.5,391,318,58281,True,False,True,False
+515,Geylang Lor 9 Fresh Frog Leg Porridge,4.5,529,37,2.5,118,59,389294,False,False,False,True
+516,Thevar,4.5,531,6,4,112,103,89117,True,True,False,True
+517,Taratata Brasserie,4.0,532,18,2.5,241,260,89142,True,False,False,False
+518,The Bark Cafe,4.0,533,13,2.5,140,111,507707,False,False,False,False
+519,Nouri,4.5,534,5,4,121,233,69891,True,True,False,False
+520,Buona Terra,4.5,535,11,4,107,148,228224,True,True,False,True
+521,L'Angélus,4.0,536,9,4,207,132,69453,True,False,True,True
+522,Craft Pizza,5.0,537,11,2.5,31,54,49824,True,False,False,True
+523,Shisen Hanten,4.0,538,13,4,307,373,238867,True,True,True,True
+524,Muthu's Curry - Suntec,4.0,539,22,2.5,158,99,38983,True,False,False,True
+525,PeraMakan,4.0,540,9,2.5,174,160,109918,True,False,False,False
+526,Chijmes Lei Garden Restaurant,4.0,541,29,4,397,346,187996,False,True,False,False
+527,Spring Court Restaurant,4.0,542,23,2.5,286,210,58348,True,False,False,True
+528,Brotzeit (Raffles City),4.0,543,23,2.5,293,183,179103,True,False,True,True
+529,The Chop House Vivo City,4.0,544,24,2.5,352,130,98585,True,False,False,False
+530,Oriental Chinese Restaurant,4.5,545,27,1,104,126,59425,False,False,False,False
+531,Chock Full of Beans,4.0,546,19,2.5,153,151,500004,False,False,False,False
+532,Pietrasanta,4.0,547,11,2.5,278,113,138632,True,False,False,False
+533,JINJJA Chicken,4.5,548,14,1,79,63,188034,True,False,False,True
+534,Bar Bar Black Sheep,4.0,549,19,2.5,378,88,238245,True,False,False,True
+535,Margarita's Dempsey Hill,4.0,550,24,2.5,465,296,249673,True,False,False,False
+536,Alchemist Beer Lab,4.5,551,18,2.5,108,74,189768,True,False,False,False
+537,Marche Movenpick Suntec City,4.0,552,28,2.5,205,130,38983,True,False,False,True
+538,The Dragon Chamber,4.5,553,18,2.5,76,123,49358,True,False,True,True
+539,Jade Palace Seafood,4.5,554,19,2.5,143,112,238884,False,True,False,False
+540,Atrium,4.5,555,6,2.5,103,62,39595,True,False,False,True
+541,Tien Court Restaurant,4.0,556,21,2.5,112,135,169632,True,False,True,True
+542,Walking On Sunshine at Orchard Central,4.5,557,38,2.5,115,188,238896,True,False,True,True
+543,Sinfonia Ristorante,4.5,558,19,4,126,96,179558,True,False,True,True
+544,NUDE Seafood,4.5,559,12,2.5,110,120,18982,True,False,False,False
+545,Wildseed Cafe at The Alkaff Mansion,4.0,560,35,2.5,137,128,109178,True,False,False,True
+546,Capri Trattoria & Pizzeria,4.5,561,26,2.5,158,114,589819,True,False,False,True
+547,Acqua e Farina,4.5,562,14,2.5,99,34,678050,True,False,True,True
+548,Beef Yakiniku Dining Yakiniquest,4.5,563,32,4,117,206,49837,True,False,False,False
+549,Tim Ho Wan,4.0,564,10,2.5,568,446,238839,False,False,False,False
+550,Clinton St. Baking Company & Restaurant,4.0,565,39,2.5,524,200,188608,False,False,False,True
+551,Metropolitan YMCA Restaurant,4.5,566,28,2.5,65,76,257854,True,False,True,True
+552,Casa Tartufo,4.0,568,12,2.5,191,180,238956,True,False,False,True
+553,Lucky Chicken Rice,4.5,569,18,1,108,52,238863,False,False,False,False
+554,8 Korean BBQ,4.0,570,12,2.5,262,118,228208,True,False,False,True
+555,Hakumai Sushi and Omakase,4.5,571,25,2.5,138,400,79903,True,False,False,False
+556,Changi Village Market Hawker Centre,4.0,573,35,1,73,96,500002,False,False,False,False
+557,Katanashi An,4.5,574,12,2.5,58,75,69611,False,False,False,False
+558,Red Eye Smokehouse,4.0,575,18,2.5,104,77,209842,True,False,True,True
+559,Ju95,5.0,576,4,3,25,47,49830,False,False,False,True
+560,RedDot Brewhouse,4.0,577,16,2.5,217,109,49823,True,False,False,False
+561,La Braceria Pizza & Grill,4.0,578,25,2.5,224,128,289501,True,False,False,True
+562,W39 Bistro & Bakery,4.0,579,19,2.5,88,90,128637,True,False,True,True
+563,Brunches Cafe,4.5,580,13,2.5,100,131,218381,False,False,False,True
+564,Southbridge,4.0,581,11,2.5,168,145,49868,True,False,False,True
+565,Trattoria da Mimmo,4.5,582,18,2.5,52,102,579078,True,False,False,False
+566,Piedra Negra,4.0,583,12,2.5,321,225,189753,True,False,False,False
+567,Ippudo Singapore,4.0,584,16,2.5,361,246,238897,False,False,False,False
+568,Mrs Pho,4.0,585,7,1,265,275,199570,True,False,False,False
+569,RedDot BrewHouse Dempsey,4.0,586,24,2.5,280,228,247691,True,False,True,True
+570,Chinatown Seafood Restaurant,4.0,587,28,2.5,1121,680,59212,True,False,False,False
+571,OSTERIA BBR By Alain Ducasse,4.0,588,28,4,421,332,189673,True,False,False,True
+572,Rabbit Carrot Gun,4.0,589,17,2.5,393,206,428768,True,False,False,True
+573,Oasis,4.0,590,5,2.5,132,51,228211,True,False,False,True
+574,Taste Paradise,4.0,591,14,2.5,247,221,238801,True,False,False,True
+575,Hillman Restaurant,4.0,592,18,2.5,296,372,208518,False,False,False,False
+576,Machan's Kitchen,4.5,593,16,2.5,72,95,218574,True,False,False,True
+577,Koon Bak Kut Teh,4.0,595,16,2.5,146,53,599735,False,False,False,True
+578,Kampong Glam Cafe,4.0,596,17,1,180,129,199661,False,False,False,False
+579,Super Loco,4.0,597,10,2.5,390,201,238252,True,False,False,True
+580,Bar Square,5.0,598,10,4,34,35,189354,True,False,False,False
+581,Crystal Jade Palace,4.0,599,19,2.5,146,164,238872,True,False,False,True
+582,COCA Singapore - Leisure Park Kallang,4.0,600,37,2.5,178,31,397693,True,False,False,True
+583,Komala Vilas Restaurant,4.0,601,23,1,149,58,218549,False,False,False,False
+584,Shish Mahal Restaurant,4.0,602,22,2.5,196,26,189971,True,False,False,True
+585,Cafe Mosaic,4.0,603,11,2.5,287,198,189558,True,False,False,False
+586,Tanglin Club,4.0,604,12,2.5,126,66,257814,True,False,False,False
+587,Yum Cha Restaurant,3.5,605,18,2.5,643,482,58479,True,False,False,True
+588,Comida Mexicana,4.5,606,15,2.5,96,72,428998,True,False,False,True
+589,Whampoa Food Center,4.0,607,19,1,136,119,,False,False,False,False
+590,Meatsmith,4.0,608,9,2.5,278,168,68620,True,False,False,True
+591,IZY Dining & Bar,4.5,609,16,2.5,142,71,69413,True,False,False,False
+592,Komyuniti Bar & Restaurant,4.5,610,26,2.5,72,120,238904,True,False,True,True
+593,Alba 1836 Wine Bar & Restaurant,4.5,611,31,4,120,161,89610,True,False,False,False
+594,Sushi Airways,4.5,612,13,2.5,121,255,199659,True,False,True,True
+595,Rang Mahal,4.0,613,10,4,505,227,39595,True,True,True,True
+596,Majestic Restaurant,4.0,614,19,2.5,180,141,18935,True,True,False,True
+597,Extra Virgin Pizza,4.0,615,18,2.5,103,38,18960,True,False,True,True
+598,Boon Tong Kee,4.5,616,13,2.5,116,97,428902,False,False,False,False
+599,The Marmalade Pantry at Downtown,4.0,617,32,2.5,155,146,79333,True,False,True,True
+600,Da Shi Jia Big Prawn Mee,4.5,618,24,2.5,40,51,239534,True,True,False,True
+601,1-V:U,5.0,619,5,2.5,30,36,99951,True,False,False,True
+602,Saveur,4.0,620,6,2.5,271,64,188584,True,False,False,False
+603,Gokul Vegetarian,4.0,621,16,2.5,172,83,207478,True,False,False,True
+604,Fire,4.5,622,4,4,40,75,238801,True,False,False,True
+605,Iggy's,4.0,623,6,4,306,232,238883,True,True,False,False
+606,Cibo Italiano,4.5,624,13,2.5,106,77,248327,False,False,True,True
+607,Torio Japanese Restaurant,4.5,625,25,4,68,148,168733,True,False,True,True
+608,Ginza Itsuki,4.0,626,12,2.5,112,146,88522,False,False,False,True
+609,Annalakshmi,4.0,627,11,2.5,235,105,59765,False,False,False,True
+610,Zion Road Food Centre,4.0,628,21,1,134,60,247792,False,False,False,False
+611,No Signboard Seafood,3.5,629,20,2.5,755,603,389392,False,False,False,False
+612,Full of Luck Restaurant,4.0,630,23,2.5,291,205,278977,True,False,False,False
+613,leopold,4.5,631,7,2.5,105,132,88517,True,False,False,True
+614,Imperial Treasure Fine Shanghai Cuisine,4.5,632,39,2.5,134,169,238874,True,True,False,False
+615,Loy Kee Best Chicken Rice Singapore,4.0,634,35,1,186,195,329774,False,False,False,True
+616,Suju Japanese Restaurant,4.5,635,24,2.5,126,116,238897,False,False,False,False
+617,My Little Spanish Place,4.0,636,23,2.5,205,118,269720,True,False,False,False
+618,Kuriya Dining,4.5,637,13,4,99,163,237994,True,False,False,True
+619,Racines,4.0,638,7,4,118,210,78885,True,False,True,True
+620,Raffles Courtyard,4.0,639,17,2.5,319,134,188719,True,False,False,True
+621,Kebabs and Curries,4.0,640,18,2.5,226,98,,False,False,False,False
+622,Yoshi Restaurant,4.5,641,16,4,76,116,238884,False,False,False,True
+623,Bochinche,4.0,642,9,2.5,143,118,69413,True,False,True,True
+624,Thanying Restaurant (Amara Hotel Lvl 2),4.0,643,39,2.5,131,75,88539,True,False,False,True
+625,Flight Bar & Lounge,4.5,644,19,2.5,101,73,18956,False,False,False,False
+626,The Drawing Room,4.5,645,16,2.5,55,27,247911,True,False,False,False
+627,nomVnom,4.5,647,7,1,95,97,59817,True,False,False,False
+628,Boruto,4.5,648,6,4,104,128,58710,False,False,False,True
+629,Sushi Jin,4.5,649,9,4,94,159,217562,True,False,False,True
+630,Indocafe the White House,4.0,650,24,2.5,150,204,228227,True,True,False,True
+631,Lucha Loco,4.0,651,10,2.5,262,69,89598,True,False,False,True
+632,Uni Gallery by OosterBay,4.5,652,24,2.5,95,166,199591,True,False,True,False
+633,Godmama,4.0,653,7,2.5,92,92,179097,True,False,True,True
+634,Dian Xiao Er,4.0,654,12,2.5,174,117,98585,True,False,False,True
+635,Béni,4.5,655,4,4,93,198,238897,True,True,True,True
+636,Yhingthai Palace Restaurant Pte Ltd,4.0,656,35,2.5,183,157,188613,False,True,False,False
+637,Madras New Woodlands,4.0,657,20,2.5,230,80,,True,False,False,False
+638,The Beast,4.0,658,9,2.5,268,103,199329,True,False,False,True
+639,Crab in da Bag,4.0,659,14,2.5,158,101,449874,True,False,False,False
+640,Sufood Singapore,4.0,660,16,2.5,136,206,179103,False,False,False,False
+641,Amaravati,4.0,661,9,1,198,152,219170,True,False,False,True
+642,Cicheti,4.0,662,7,2.5,203,121,198901,True,False,False,False
+643,Bee's Knees at The Garage,4.0,663,25,2.5,187,126,257488,True,False,True,True
+644,Cloudstreet,4.5,664,11,4,60,41,69903,True,True,True,True
+645,Hajah Maimunah Restaurant,4.0,665,25,2.5,125,81,199078,False,False,False,False
+646,My Little Tapas Bar,4.0,666,19,2.5,108,43,69694,True,False,False,True
+647,Fook Kin,4.0,667,8,2.5,80,87,239550,True,False,True,True
+648,Hong Lim Complex,4.0,668,16,1,115,87,,False,False,False,False
+649,Chin Lee Restaurant,4.5,669,19,2.5,87,141,460115,False,False,False,False
+650,Flying Monkey,4.0,670,13,2.5,126,132,199480,True,False,False,True
+651,The Market Grill & Wine 90,4.0,671,26,2.5,226,81,68642,True,False,False,True
+652,Bella Pizza,4.0,672,11,2.5,179,53,238251,True,False,True,True
+653,Idlewild,5.0,673,8,2.5,35,31,188966,True,False,False,False
+654,Sinpopo . Brand,4.0,674,15,2.5,243,247,427671,True,False,False,True
+655,Saveur (Purvis),4.0,675,15,2.5,673,376,188584,True,False,False,True
+656,Sitara Restaurant,4.0,676,17,2.5,165,75,218107,True,False,False,False
+657,All The Batter - Avocado & Natural Foods,5.0,677,40,2.5,40,52,576585,True,False,False,False
+658,Kiyoshi Japanese Restaurant,5.0,678,27,2.5,24,90,69894,True,False,False,True
+659,Foc Pim Pam,4.0,679,11,2.5,239,134,238879,True,False,False,False
+660,Wang Dae Bak Korean Bbq Restaurant,4.0,680,34,2.5,101,77,48421,True,False,False,False
+661,Anjappar Authentic Chettinaad Restaurant,4.0,681,40,2.5,209,150,218575,True,False,False,True
+662,Le Noir,4.0,682,7,2.5,281,87,179022,False,False,False,False
+663,Boomarang Bistro & Bar,3.5,683,22,2.5,464,119,238252,True,False,False,True
+664,Fuego Bar & Kitchen Singapore,4.5,684,29,2.5,43,95,119968,False,False,False,False
+665,Bao Makers,4.0,685,10,2.5,112,120,89261,True,False,False,True
+666,Ma Maison,4.0,686,9,2.5,243,179,188021,False,False,False,False
+667,B Burger,4.5,687,8,2.5,93,85,239695,True,False,False,True
+668,The Coastal Settlement,4.0,688,22,2.5,265,434,508529,True,False,False,False
+669,Shimbashi Soba,4.0,689,14,2.5,172,129,238859,True,False,False,False
+670,Bel Mondo,4.0,690,9,2.5,122,66,39596,True,False,False,False
+671,Miam Miam,4.0,691,9,2.5,185,151,188021,True,False,False,True
+672,Red House,4.0,692,9,2.5,165,69,188661,True,False,False,True
+673,I'm Kim Korean BBQ,4.0,693,18,2.5,144,57,227968,True,False,False,False
+674,British Indian Curry Hut,4.5,695,24,2.5,178,92,277688,True,False,False,True
+675,Podi & Poriyal,4.5,696,14,2.5,96,121,218151,True,False,True,True
+676,Braseiro,4.0,697,8,2.5,111,53,427588,True,False,False,True
+677,White Label Records & Bar,5.0,699,25,2.5,36,58,69708,True,False,False,False
+678,Alaturka,4.0,700,8,2.5,291,141,199436,True,False,False,True
+679,Feast Roxy,4.0,702,10,2.5,127,119,428769,True,False,False,True
+680,Forketta,4.0,703,8,2.5,396,218,247697,True,False,True,True
+681,Thai Accent,4.0,704,11,2.5,109,89,98585,True,False,False,True
+682,Ramen Keisuke Tori King,4.0,705,23,2.5,105,124,79027,False,False,False,False
+683,Noodle Man,4.0,706,10,1,172,96,58933,False,False,False,False
+684,Yen Yakiniku,4.5,707,12,2.5,74,44,69695,False,True,False,False
+685,Shinzo Japanese Cuisine,4.0,708,23,4,121,72,59906,False,False,True,True
+686,Sushi Tei,4.0,709,9,2.5,189,94,238859,True,False,False,False
+687,Bincho at Hua Bee,4.0,710,17,4,285,213,162078,True,False,True,True
+688,Sarnies,4.0,712,7,2.5,221,79,68601,False,False,False,True
+689,Kith Cafe Robertson Quay,4.0,713,24,2.5,153,49,238215,True,False,False,True
+690,Naked Finn,4.0,714,10,2.5,112,115,109454,False,False,False,False
+691,Jigger & Pony,4.5,715,13,2.5,81,72,88539,True,False,False,True
+692,Summer Hill,4.0,716,11,2.5,70,35,120106,False,False,True,True
+693,The Glass Onion,4.5,717,15,2.5,73,94,189623,True,False,False,False
+694,East Coast Lagoon Food Centre,4.0,718,29,1,101,48,,False,False,False,False
+695,Pita Bakery,4.5,719,11,1,56,65,189865,True,False,True,False
+696,Canchita Peruvian Restaurant Sg,4.5,720,31,2.5,30,26,247698,True,False,False,False
+697,Tung Lok Seafood,4.0,721,16,2.5,194,149,238896,False,False,True,True
+698,Renku Bar & Lounge,4.5,722,18,2.5,63,101,18956,True,False,False,False
+699,Arunachala Bhavan,4.5,723,17,2.5,59,19,218556,True,False,False,False
+700,Tong Le Private Dining,4.0,724,22,4,111,172,49322,False,False,True,True
+701,Ikoi Japanese Restaurant,4.0,725,24,2.5,230,201,169631,True,False,False,False
+702,Por Kee Eating House,4.0,726,20,2.5,178,135,160069,False,False,False,False
+703,Dubai Shawarma Oxley Tower,5.0,727,26,1,29,33,68906,True,False,False,False
+704,Andsoforth,4.5,728,10,2.5,49,74,,True,False,True,False
+705,Casa MANINI,5.0,729,11,2.5,38,58,557265,True,False,False,False
+706,Le Rida,4.5,730,7,2.5,78,47,589620,True,False,False,True
+707,Yakiniku Yazawa,4.5,731,15,4,112,106,237995,False,False,False,False
+708,Sin Hoi Sai Eating House,4.0,732,24,2.5,180,116,428893,False,False,False,False
+709,Lingzhi Vegetarian,4.0,733,18,2.5,175,98,238881,False,False,False,True
+710,VUE,4.5,734,3,4,45,147,49321,True,True,True,True
+711,COCA Singapore - Ngee Ann City,4.0,735,30,2.5,266,31,238873,True,False,False,True
+712,Legendary Bak Kut Teh at Rangoon,4.0,736,32,2.5,84,84,218431,True,False,False,True
+713,Kelly Jie Seafood (Former TPY Mellben),3.5,737,38,2.5,476,209,310211,True,False,False,True
+714,Hero's,4.5,738,6,2.5,57,29,49423,True,False,False,True
+715,PizzaExpress,4.0,739,12,2.5,165,72,228209,False,False,False,False
+716,Marine Parade Laksa,4.5,740,19,1,56,66,428769,True,False,False,False
+717,The White Ombré Café,4.5,11,20,2.5,61,62,199020,True,False,False,False
+718,Forlino,4.0,742,7,4,318,181,49213,True,False,False,True
+719,L'Espresso,4.0,743,10,2.5,134,123,228221,True,False,True,False
+720,Bee Cheng Hiang,4.0,744,15,2.5,105,62,328241,True,False,False,True
+721,Merchants,4.5,745,9,2.5,83,22,89516,True,False,False,False
+722,Long Phung Vietnamese Restaurant,4.0,746,32,1,200,297,427436,False,False,False,False
+723,Chin Huat Live Seafood,4.0,747,22,2.5,129,122,120105,False,False,False,True
+724,ABC Brickworks Market & Food Centre,4.0,748,35,1,73,100,150006,False,False,False,False
+725,Lobby Lounge at Pan Pacific Orchard,4.5,749,35,2.5,89,27,229540,True,False,False,False
+726,Wine Universe Restaurant Tapas Bar,4.0,750,34,2.5,103,52,39596,True,False,False,True
+727,Mr Biryani,4.5,751,10,1,108,101,208274,True,False,False,False
+728,Kazu Sumiyaki,4.5,752,13,2.5,88,167,228796,False,False,False,True
+729,Mangiamo Pizzeria,4.5,753,17,2.5,58,36,189971,True,False,False,False
+730,Bumbu,4.0,754,5,2.5,118,91,198897,False,False,False,False
+731,Tonito Latin American Kitchen,4.5,755,29,2.5,59,74,819666,True,False,True,True
+732,Employees Only,4.0,756,14,2.5,137,41,69932,True,False,True,True
+733,Zaffron Kitchen,3.5,757,15,2.5,340,154,428822,True,True,False,True
+734,Terra Tokyo Italian,4.0,758,19,4,194,154,78993,True,True,False,False
+735,Pizza Express,4.0,759,13,2.5,114,59,189356,False,False,False,False
+736,Rumah Makan Minang,4.0,760,18,2.5,108,122,198884,False,False,False,False
+737,18 Hours,5.0,762,8,2.5,32,33,58476,True,False,False,False
+738,Dusk Restaurant & Bar,4.0,763,21,2.5,76,61,99203,True,False,False,True
+739,The Malayan Council,4.0,764,19,2.5,135,255,209350,False,False,False,True
+740,Si Wei Mao Cai,4.5,765,14,2.5,84,76,59511,True,False,False,True
+741,Well Dressed Salad Bar & Cafe,4.5,766,29,2.5,64,45,58831,True,False,False,False
+742,Hashida Sushi Singapore,4.5,767,23,4,41,117,238969,True,False,False,False
+743,Ginger Thai,4.0,768,11,2.5,186,119,229460,True,False,False,True
+744,The Study,4.0,769,9,2.5,144,63,89153,True,False,False,False
+745,Yantra,4.0,770,6,4,410,155,247933,True,False,True,False
+746,Nanjing Impressions,4.0,771,19,2.5,103,331,238839,True,False,True,True
+747,Culina at COMO Dempsey,4.0,772,22,2.5,253,243,249675,True,False,False,True
+748,Decker Barbecue,4.5,773,15,2.5,116,69,238252,True,False,False,True
+749,TungLok Heen,4.0,774,12,4,85,73,98138,False,True,True,True
+750,JB Ah Meng Restaurant,4.0,775,21,2.5,98,167,388353,False,False,False,False
+751,Soup Restaurant - Paragon,4.0,776,25,2.5,212,149,238859,True,False,False,True
+752,Imperial Treasure Fine Chinese Cuisine,4.0,777,38,4,217,154,18956,True,False,False,False
+753,Toast Box Marina Bay Sands,4.0,778,26,1,72,54,18958,False,False,False,False
+754,Kopi Tiam,4.0,779,9,2.5,262,111,178882,True,False,False,True
+755,Hutong Northern Chinese Cuisine,4.0,780,31,2.5,182,80,179023,True,False,False,True
+756,Meating Place,4.5,781,13,2.5,45,12,189356,False,False,True,True
+757,Angus Steak House Singapore,4.0,782,27,2.5,204,127,238872,False,False,False,False
+758,District 10 Bar & Restaurant,4.0,783,28,2.5,197,74,239917,True,False,False,True
+759,Jing Hua Xiao Chi,4.0,784,17,2.5,128,133,88814,True,False,False,True
+760,La Taperia,4.0,785,10,2.5,156,295,228208,True,False,True,True
+761,"La Dame de Pic, Raffles Singapore",4.5,786,33,4,79,263,189673,True,True,True,True
+762,The Penny Black Victorian London Pub,3.5,787,36,2.5,261,125,49817,True,False,False,True
+763,"Plate, Carlton City Hotel Singapore",4.0,788,35,2.5,74,42,78862,True,False,False,False
+764,Tandoori Corner - Balestier Road,4.0,789,32,2.5,168,95,329802,True,False,False,False
+765,Sideways,4.5,790,8,2.5,46,66,208033,True,False,False,False
+766,Luxe Singapore,4.0,791,14,2.5,135,51,89109,True,False,False,False
+767,Spruce,4.0,792,6,2.5,300,137,588190,True,False,False,False
+768,Jia Wei Chinese Restaurant,4.0,793,26,2.5,102,113,228068,True,False,False,True
+769,Founder Bak Kut Teh,4.0,794,19,2.5,175,137,329777,True,False,False,True
+770,Scaled by Ah Hua Kelong,5.0,795,23,2.5,32,79,209179,True,False,False,False
+771,Five Star Hainanese Chicken Rice,4.0,796,32,1,146,104,428897,True,False,False,True
+772,"Song Fa Bak Kut Teh, UE BizHub East",4.5,797,35,2.5,47,36,486017,True,False,False,False
+773,Ah Heng Curry Chicken Bee Hoon Mee,4.5,798,34,1,59,86,51531,False,True,False,False
+774,The Chop House I12 Katong,4.0,799,25,2.5,152,84,428802,True,False,False,True
+775,Hachi Restaurant,4.5,800,16,4,73,254,178957,True,False,False,True
+776,Hamburg Steak Keisuke,4.0,801,21,2.5,84,140,79329,False,False,False,True
+777,Two Blur Guys,4.0,802,13,2.5,132,55,209002,True,False,False,True
+778,Adam Road Food Centre,4.0,803,21,1,201,67,289876,False,False,False,False
+779,Mehfil Mughlai,5.0,804,14,1,25,12,,True,False,False,False
+780,In Piazza,4.5,805,9,2.5,86,124,257878,True,False,False,True
+781,British Hainan,4.5,806,14,2.5,60,86,429812,False,False,False,False
+782,Blu Kouzina Siglap,4.5,807,18,2.5,31,48,459107,True,False,False,True
+783,Eight Treasures Vegetarian,4.0,808,26,2.5,135,53,58831,True,False,False,False
+784,The Reading Room,4.0,809,16,2.5,182,111,89833,True,False,False,False
+785,J65,4.0,810,3,2.5,143,229,249716,True,False,False,True
+786,Brotzeit (Katong),4.0,811,17,2.5,93,108,428811,True,False,False,True
+787,Venue by Sebastian,4.5,812,18,2.5,47,73,68815,False,False,False,False
+788,Putien,4.0,813,6,2.5,156,150,208514,False,True,False,True
+789,SPRMRKT at Cluny Court,4.0,814,22,2.5,124,40,259760,True,False,False,False
+790,Bedrock Origin,5.0,815,14,4,21,50,98679,True,False,False,True
+791,Earlybird,4.5,816,9,2.5,39,91,199149,True,False,False,False
+792,Bar Stories,4.0,817,11,2.5,172,149,189250,True,False,False,True
+793,The Guild,4.5,818,9,2.5,56,69,89158,True,False,False,True
+794,The Mango Tree Indian Coastal Restaurant,4.0,819,40,2.5,129,79,428791,True,False,False,True
+795,Going Om,4.5,820,8,2.5,60,47,189256,True,False,False,False
+796,Sanpoutei Ramen,4.0,821,15,2.5,127,127,278982,False,False,False,False
+797,The Masses Singapore,4.0,823,20,2.5,103,114,189694,True,False,True,True
+798,Tanjong Pagar Market And Food Centre,4.0,824,36,1,84,87,81006,False,True,False,False
+799,Silk Road Restaurant,4.0,825,20,2.5,117,124,88539,True,False,False,True
+800,UNA at The Alkaff Mansion,4.0,826,25,2.5,72,139,109178,True,False,True,True
+801,GoroGoro Steamboat & Korean Buffet,4.5,827,34,2.5,59,77,238851,True,False,False,False
+802,Kuvo,4.0,828,4,2.5,111,78,238866,True,False,False,False
+803,Tower Club Singapore,4.0,829,20,4,87,162,48619,True,False,False,False
+804,Penang Place,4.0,830,12,2.5,121,163,38983,True,False,False,False
+805,Tunglok Signatures,4.0,831,18,2.5,113,38,486038,False,False,False,False
+806,Sawasdee Thai Restaurant,4.0,832,24,2.5,171,86,58460,True,False,False,True
+807,Imam Banana Leaf Restaurant,4.5,833,27,1,56,27,399043,False,False,False,False
+808,Old Chang Kee,4.0,834,13,1,108,61,238801,False,False,False,False
+809,Balestier Market and Food Centre,4.0,835,32,1,105,89,329806,False,False,False,False
+810,Kitchen by Food Rebel,4.5,836,21,2.5,129,116,68737,True,False,False,True
+811,Penang Culture @ NEX,4.5,837,20,2.5,58,43,556083,True,False,False,True
+812,Bistro Gaston,4.5,838,13,2.5,49,57,89132,True,False,False,False
+813,Dallas Cafe & Bar,4.5,839,17,2.5,81,72,18972,True,False,False,True
+814,Keisuke Tonkotsu King,4.5,840,21,2.5,87,60,78867,False,False,False,False
+815,Fika Swedish Cafe and Bistro,3.5,841,28,2.5,311,129,199539,True,False,False,False
+816,Ya Kun Kaya Toast-Raffles City,4.0,842,30,1,84,75,179103,False,False,False,False
+817,The Countryside Cafe,4.5,843,20,2.5,135,53,209399,True,False,False,False
+818,Fu Lin Bar & Kitchen,4.5,844,20,2.5,52,135,68596,True,False,False,True
+819,Halcyon & Crane,4.0,845,15,2.5,69,115,238859,True,False,True,True
+820,Kintamani Indonesian Restaurant,4.0,846,31,2.5,164,123,169633,False,False,False,True
+821,True Blue Cuisine,3.5,847,17,2.5,351,320,179937,True,True,False,True
+822,Teppan Kappou Kenji,4.5,848,19,2.5,42,59,88520,False,False,True,True
+823,Knots Cafe and Living,4.0,849,21,2.5,107,203,409022,True,False,False,False
+824,La Scala Ristorante,4.0,850,19,2.5,72,115,178905,True,False,True,True
+825,Spize @ River Valley,4.0,851,20,2.5,376,167,248307,True,False,False,False
+826,Roland Restaurant Pte Ltd,4.0,852,25,2.5,129,240,440089,False,True,False,True
+827,IKEA Restaurant,3.5,853,15,1,231,128,159965,False,False,False,True
+828,Fish Mart SAKURAYA,4.0,854,18,2.5,96,184,127371,True,False,False,True
+829,Beauty in The Pot (KINEX),4.0,855,25,2.5,124,121,437157,True,False,False,True
+830,Ah Meng Restaurant,3.5,856,18,2.5,280,127,729826,True,False,False,False
+831,Bar Intermezzo,4.5,857,14,13,30,45,238879,True,False,False,False
+832,Som Tam,4.0,858,7,2.5,139,61,238896,True,False,False,False
+833,Charlie's Restaurant & Bar,4.0,859,26,2.5,126,69,49821,True,False,True,True
+834,Alley Bar,4.0,860,9,2.5,120,41,229287,True,False,False,True
+835,Bella Pasta,4.0,861,11,2.5,193,79,238251,True,False,True,True
+836,PS. Cafe,4.0,862,8,2.5,67,92,169206,True,False,False,False
+837,New Ubin CHIJMES,4.0,863,16,4,81,111,187996,True,False,False,True
+838,Makan@Jen,4.0,865,9,2.5,197,224,238858,True,False,False,False
+839,Murugan Idli Shop,4.0,866,17,2.5,355,61,207655,False,False,False,False
+840,Open Door Policy,4.0,867,16,2.5,292,127,168650,True,False,False,False
+841,Paradise Dynasty at VivoCity,4.0,868,28,2.5,102,137,98585,True,False,False,True
+842,Supply and Demand,3.5,869,17,2.5,346,184,39802,True,False,False,True
+843,The Sushi Bar,4.0,870,13,2.5,105,175,228213,False,False,False,False
+844,San Laksa Steamboat,4.5,871,19,2.5,53,39,208524,True,False,False,True
+845,Carnivore Brazilian Churrascaria,4.0,872,32,2.5,205,74,187996,True,False,False,True
+846,Museo,4.0,873,5,2.5,135,114,98375,True,False,False,False
+847,Tsukada Nojo,4.0,874,12,2.5,82,193,,False,False,False,False
+848,Zui Yu Xuan Teochew Cuisine,4.0,875,27,2.5,51,65,49959,True,False,True,True
+849,Operation Dagger,4.0,876,16,2.5,102,92,69689,False,False,False,False
+850,Rock Bar Burger & Steakhouse,4.5,877,28,2.5,56,122,98375,True,False,False,True
+851,Upper Place,4.5,878,11,2.5,65,66,169040,True,False,False,False
+852,Wahiro,4.5,879,6,2.5,60,62,428769,True,False,False,False
+853,One-Ninety Bar,4.5,880,14,2.5,58,57,248646,True,False,False,True
+854,Gibson,4.5,881,6,2.5,43,37,89834,True,False,False,True
+855,Tung Lok Signatures,4.0,882,19,2.5,140,83,98585,False,False,False,False
+856,RENNthai,3.5,883,8,2.5,360,159,179023,True,False,False,True
+857,Beauty in The Pot (The Centrepoint),4.5,884,35,2.5,46,61,238843,True,False,False,True
+858,Noosh Halal Noodle Bar and Grill,4.0,885,32,2.5,173,144,39802,True,False,False,True
+859,Wanderlost Lounge,4.0,886,17,4,95,88,188067,True,False,False,False
+860,Chico Loco,4.5,887,10,2.5,26,40,69922,True,False,False,True
+861,Sumire Yakitori House,4.0,888,21,2.5,152,96,188966,False,False,False,True
+862,Golden Mile Food Centre,4.0,889,23,1,68,85,199583,False,False,False,False
+863,SandBank,4.0,890,8,2.5,117,99,449875,True,False,True,True
+864,Dolcetto by Basilico,4.5,891,20,2.5,45,33,249715,True,False,False,False
+865,Ricciotti,4.0,892,9,2.5,253,153,58416,True,False,False,True
+866,PocoLoco,4.0,893,8,2.5,135,58,609433,True,False,False,True
+867,Sin Swee Kee Chicken Rice,4.0,894,25,1,183,128,188391,False,False,False,True
+868,Sari Ratu Singapore,4.0,895,19,2.5,82,78,198617,False,False,False,False
+869,Le Binchotan,4.0,896,12,4,122,100,69935,True,False,False,False
+870,Roosevelt's Diner & Bar,4.0,897,23,2.5,92,50,88764,True,False,False,False
+871,2it&Drink,4.0,898,9,2.5,106,84,248371,True,False,False,True
+872,O'maJ,4.5,899,5,2.5,83,159,307644,True,False,False,False
+873,Sushi Tei - Raffles City,4.0,900,24,2.5,126,108,179103,True,False,False,True
+874,Kok Sen Restaurant,4.0,901,18,2.5,142,171,89137,False,True,False,False
+875,Nam Nam Noodle Bar,3.5,902,18,1,236,173,,False,False,False,False
+876,Caffee Cicheti,4.0,903,14,2.5,61,75,189768,True,False,False,False
+877,YOUNGS Bar and Restaurant,4.0,904,25,2.5,150,145,799531,True,False,False,True
+878,Rong Hua Bak Kut Teh,4.0,905,20,2.5,90,66,39594,True,False,False,False
+879,Ikea Cafeteria,3.5,906,14,1,310,80,528764,False,False,False,True
+880,Tamashii Restaurant,4.0,907,19,2.5,94,104,48825,True,False,False,True
+881,Table Restaurant & Bar,4.0,908,22,2.5,130,78,188396,True,False,False,False
+882,LINO @ Binjai Park,4.0,909,18,2.5,99,71,589821,True,False,True,True
+883,Canton Paradise,4.0,910,15,2.5,88,141,138617,True,False,True,True
+884,Sear,4.0,911,4,2.5,103,89,48623,True,False,False,True
+885,18:HOURS,4.5,912,8,2.5,50,46,89154,True,False,False,False
+886,Miao Yi Vegetarian Restaurant,4.5,913,29,2.5,61,43,58357,True,False,False,False
+887,IstanBlue Meze & Grill,4.0,914,22,2.5,122,121,199656,True,False,True,True
+888,Loo's Hainanese Curry Rice,4.0,916,26,1,56,99,160057,False,False,False,False
+889,Mongkok Dim Sum @ Geylang,4.0,917,25,2.5,142,180,389274,False,False,False,False
+890,Maison Ikkoku,4.0,918,13,2.5,183,193,198885,True,False,False,False
+891,PS.Cafe Petit,4.0,919,13,2.5,94,98,160078,True,False,False,False
+892,Jalan Sultan Prawn Mee,4.5,920,22,1,48,58,389141,False,True,False,False
+893,Tori-Q,4.0,921,6,1,92,30,238861,False,False,False,False
+894,Nalan Restaurant,4.0,922,16,2.5,171,116,178905,True,False,False,True
+895,Canton Paradise (Alexandra Retail Centre),4.5,923,41,2.5,40,39,119963,True,False,False,True
+896,MANLE Teochew Porridge Buffet,4.0,924,29,2.5,67,36,208539,True,False,False,False
+897,Delhi6,4.0,925,6,2.5,142,57,218547,True,False,False,True
+898,Ya Hua Bak Kut Teh,4.0,926,18,2.5,103,86,169641,False,False,False,False
+899,Fresh Fruits Lab,4.0,927,16,2.5,59,145,419818,True,False,False,True
+900,Teppei,4.0,928,6,2.5,168,409,78867,False,False,False,False
+901,Oxwell & co,4.0,929,11,2.5,223,131,69688,True,False,False,False
+902,Azur Restaurant,3.5,930,15,2.5,269,143,819664,True,False,False,False
+903,Horse's Mouth,4.0,931,13,2.5,81,10,238884,False,False,False,True
+904,BLOSSOM Restaurant,4.0,932,18,4,70,88,,True,False,False,False
+905,Jacob's Cafe,4.0,933,12,2.5,84,55,,False,False,False,True
+906,Druggists,4.5,934,9,2.5,69,62,207547,True,False,False,False
+907,PS.Cafe at Martin Road,4.0,935,22,2.5,125,69,239072,True,False,True,True
+908,Dario,4.5,936,5,2.5,47,33,129741,False,False,False,True
+909,Hokkaido Sushi Restaurant,4.0,937,25,2.5,114,132,79908,True,False,False,False
+910,Stateland Cafe,4.0,938,14,2.5,133,93,189866,False,False,False,False
+911,Three Buns Quayside,4.0,939,19,4,115,95,238252,True,False,False,True
+912,Crystal Jade Jiang Nan,4.0,940,22,2.5,129,36,98585,True,False,False,True
+913,Tonkotsu King Four Season,4.5,941,25,2.5,58,82,188433,False,False,False,False
+914,Gudetama Cafe,3.5,942,13,2.5,234,299,38983,True,False,False,False
+915,Privé Clarke Quay,4.0,943,17,2.5,137,80,179019,True,False,True,False
+916,Pu3 Restaurant,4.5,944,14,2.5,55,49,238164,True,False,False,False
+917,Golden Spoon,4.0,945,12,2.5,59,72,160062,False,False,False,False
+918,Mykonos,4.0,946,7,2.5,123,78,98375,True,False,True,False
+919,Al Bismi,4.0,947,8,1,67,46,209513,False,False,False,False
+920,Porta Porta Italian Restaurant,4.5,948,30,2.5,70,36,488698,False,False,False,True
+921,Tatsu,4.0,949,5,2.5,67,55,18961,True,False,False,False
+922,Sri Lukshmi Naarashimhan,4.5,950,24,2.5,52,9,218132,False,False,False,False
+923,Paradise Dynasty,4.0,951,16,2.5,109,206,819663,True,False,False,True
+924,Club Street Social,4.0,952,18,2.5,91,25,69261,False,False,False,False
+925,Window on the Park,3.5,953,18,2.5,415,155,229616,True,False,False,True
+926,Black Angus Steakhouse,3.5,954,22,2.5,413,96,247905,True,False,False,False
+927,Oporto,4.5,955,6,2.5,46,20,277725,True,False,False,False
+928,Timbre X S.E.A,4.0,956,14,2.5,176,60,179429,True,False,True,True
+929,Canopy Garden Dining,3.5,957,20,2.5,419,117,569931,True,False,False,True
+930,Afterglow by Anglow,4.0,958,19,2.5,166,162,89131,True,False,False,True
+931,City Hot Pot Shabu Shabu,4.0,959,24,2.5,91,141,48616,True,False,False,True
+932,Wine Connection Bistro at I12 Katong,4.0,960,36,2.5,231,104,428802,True,False,False,True
+933,The Disgruntled Chef,4.0,961,20,2.5,194,70,247693,True,False,False,False
+934,East Coast Seafood Centre,4.0,962,25,2.5,80,29,449883,False,False,False,False
+935,Tingkat PeraMakan,4.0,963,17,2.5,58,58,218924,False,False,False,True
+936,River Wok Singapore,4.0,964,19,2.5,92,57,239013,True,False,False,False
+937,Marutama Ramen (Liang Court),4.0,965,28,2.5,102,30,179030,True,False,False,False
+938,Teng Bespoke Japanese Vegetarian Dining,4.0,966,39,2.5,77,111,189652,False,False,False,False
+939,Noodle Thai Thai Kitchen beach road,4.5,967,35,1,57,281,199560,True,False,False,False
+940,Chimichanga,4.5,968,11,2.5,54,61,209364,True,False,True,True
+941,Crazy Elephant,4.0,969,14,2.5,92,47,179019,True,False,False,False
+942,Thai Goldmine Kitchen,5.0,970,21,1,36,50,117384,True,False,False,False
+943,Ah Hoi's Kitchen,3.5,971,16,2.5,185,100,249716,True,False,False,True
+944,Sushi Mitsuya,4.5,972,13,4,69,126,,True,False,False,False
+945,Le Bon Funk,4.5,973,11,2.5,49,22,69414,True,False,True,True
+946,Duckland,4.0,974,8,2.5,71,77,307591,False,False,True,False
+947,Dim Sum Haus,4.0,975,12,2.5,61,132,208809,True,False,False,True
+948,Amber Tandoor Restaurant,4.0,976,24,2.5,112,96,218067,True,False,False,False
+949,Table at 7,4.5,977,10,4,67,57,267616,True,False,False,False
+950,Blue Potato,4.0,978,11,2.5,83,18,58281,True,False,False,False
+951,Akashi Japanese Restaurant,4.0,979,26,2.5,178,56,247909,False,False,False,False
+952,The 1925 Brewing Co. Joo Chiat,4.0,980,30,2.5,97,111,427515,True,False,False,True
+953,Lafiandra Ristorante,4.0,982,20,2.5,61,87,247964,True,False,True,True
+954,Konjiki Hototogisu,4.5,983,18,2.5,42,94,187996,False,False,False,True
+955,The Gogijip,5.0,984,11,8,21,77,88493,True,False,False,False
+956,Bebek Goreng Pak Ndut,4.5,985,21,1,46,60,238863,False,False,False,True
+957,Ambush,4.0,986,6,2.5,113,73,579837,False,False,False,True
+958,Fine Wines SG Pte Ltd,5.0,987,21,4,18,7,338729,True,False,False,True
+959,Crystal Jade Kitchen,4.0,988,20,2.5,203,55,238868,False,False,False,False
+960,發起人肉骨茶,4.0,989,6,2.5,60,80,,False,False,False,False
+961,poison ivy,4.0,990,10,2.5,75,91,719026,True,False,False,False
+962,Sakunthala's Restaurant - Dunlop Outlet,4.0,991,39,1,87,60,209466,True,False,False,False
+963,Crystal Jade,4.0,992,12,2.5,149,93,98585,True,False,False,True
+964,Grain Traders,4.0,993,13,2.5,95,69,48946,True,False,False,True
+965,Tampopo,4.0,994,7,2.5,169,226,179030,False,False,False,False
+966,Tampopo @ Takashimaya,4.0,995,21,2.5,66,95,238872,False,False,False,False
+967,Al Jilani Restaurant,4.0,996,20,1,122,57,189637,False,False,False,False
+968,Brizo Restaurant and Bar,4.0,997,24,2.5,92,52,237983,False,False,False,False
+969,Loving Hut,4.0,998,10,2.5,92,106,427489,False,False,False,True
+970,Koh Grill and Sushi Bar,4.0,999,23,2.5,148,183,238877,False,False,False,False
+971,Hakata Ikkousha Chijmes,4.0,1000,23,2.5,60,67,187996,False,False,False,False
+972,Katachi Style Sushi,4.5,1427,19,2.5,20,44,178906,True,False,False,True
+973,Gio - Gourmet Italian Osteria,4.0,1817,29,2.5,20,49,88450,True,False,False,True
+974,The French Ladle,4.5,1001,16,2.5,49,54,597626,True,False,False,False
+975,Kafe Utu,4.0,1135,8,2.5,60,185,89265,True,False,False,False
+976,Outram Ya Hua Bak Kut Teh,4.0,1002,25,2.5,73,75,89053,True,False,False,False
+977,"Tapas,24 Singapore",4.5,1003,18,2.5,28,44,238252,True,False,False,True
+978,Crab in Da Bag,4.0,1005,14,2.5,110,35,397691,False,False,False,False
+979,Blue Label Pizza & Wine,4.5,1006,23,2.5,49,61,69708,True,False,False,True
+980,Soi 47 Thai Food,4.5,1007,16,1,44,89,208559,False,False,False,True
+981,Kim Dae Mun Korean Cuisine,4.5,1008,26,1,47,28,238840,False,False,False,False
+982,Mui Kee Congee @ Orchard,4.0,1009,24,2.5,66,160,228208,True,False,False,True
+983,Mahota Singapore,4.0,1011,16,2.5,50,152,529509,True,False,False,False
+984,Beaulieu House / Sembawang Seafood Paradise,4.0,1012,43,2.5,55,112,759837,True,False,False,False
+985,The Soup Spoon,4.0,1013,14,2.5,164,26,188024,False,False,False,False
+986,The Buffet,4.0,1014,10,2.5,79,36,79908,True,False,False,True
+987,Sum Yi Tai,4.0,1015,10,2.5,120,54,69622,True,False,False,False
+988,El Mero Mero,3.5,1016,12,2.5,462,252,187996,True,False,False,True
+989,Tiong Bahru Hainanese Boneless Chicken Rice,4.0,1017,43,1,85,96,58961,True,False,False,True
+990,Cafe2000,4.0,1018,8,2.5,168,124,,True,False,True,True
+991,Longtail Asian Brasserie & Bar,4.0,1019,30,2.5,94,56,49323,True,False,False,False
+992,Fumee by Habanos,4.0,1020,16,2.5,175,145,39596,True,False,False,False
+993,Tambuah Mas,4.0,1021,11,2.5,135,15,247909,True,True,False,True
+994,Montana Singapore,4.0,1023,17,2.5,113,58,188306,True,False,False,False
+995,Gyu-Kaku Japanese Bbq Novena Square,4.0,1024,35,2.5,59,43,,False,False,True,True
+996,Tonic,4.5,1025,5,2.5,56,33,189763,True,False,False,False
+997,"Supply & Demand, Orchardgateway",4.0,1026,31,2.5,168,87,238858,True,False,False,True
+998,Basque Kitchen by Aitor,4.0,1027,23,4,67,124,49215,True,True,True,True
+999,Ki-sho,4.5,1028,6,4,72,160,228224,True,False,False,True
+1000,The Boneless Kitchen,4.5,1029,20,2.5,46,64,369546,True,False,False,True
+1001,KITEN,5.0,1030,5,8,18,73,58743,True,False,False,True
+1002,LongQing Steamboat,4.0,1031,18,2.5,78,63,59661,True,False,False,True
+1003,Guo Fu Steamboat,4.0,1437,16,2.5,41,59,48422,True,False,False,False
+1004,Shake Farm,4.5,1032,10,2.5,50,25,68882,True,False,False,True
+1005,Gandhi,4.0,1033,6,1,88,34,219538,False,False,False,False
+1006,La Pizzaiola,4.0,1034,12,2.5,104,75,,False,False,False,True
+1007,Jerry's BBQ and Grill,4.0,1035,21,2.5,111,49,799451,False,False,False,False
+1008,JAG Wine,4.5,1036,8,2.5,31,46,428988,True,False,False,True
+1009,Da Luca Italian Restaurant,4.0,1037,26,2.5,168,127,308899,True,False,False,False
+1010,Bariuma Tanglin,4.0,1038,15,2.5,64,105,247909,True,False,False,True
+1011,Wolfgang's Steakhouse by Wolfgang Zwiener,4.0,1039,41,4,132,184,238909,True,False,False,False
+1012,Char,4.0,1040,4,2.5,104,86,399790,True,False,False,True
+1013,Astons Steak & Salad,4.0,1041,20,2.5,63,37,238843,False,False,False,False
+1014,Genki Sushi,4.0,1042,11,2.5,152,142,238896,False,False,False,False
+1015,Michael's Bar & Grill,4.5,1043,21,2.5,35,44,118161,True,False,False,False
+1016,Plentyfull,4.0,1044,10,2.5,133,107,39596,True,False,False,False
+1017,Tuan Yuan Pork Ribs Soup,4.5,1045,24,2.5,49,70,160127,True,False,False,True
+1018,Old Cheng Du,4.0,1047,12,2.5,97,110,59239,False,False,False,True
+1019,The Square @ Furama,3.5,1048,19,2.5,218,173,169633,False,False,False,True
+1020,Gokul Vegetarian Restaurant,4.0,1049,27,2.5,65,21,188979,False,False,False,False
+1021,Shin Kushiya - VivoCity,3.5,1050,23,2.5,209,103,98585,True,False,False,True
+1022,Shiraz,4.0,1051,6,2.5,229,97,1709020,False,False,False,False
